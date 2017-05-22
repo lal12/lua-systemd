@@ -1,6 +1,5 @@
 #include "lua.h"
 #include "lauxlib.h"
-#include "compat-5.3.h"
 
 #include <systemd/sd-id128.h>
 
